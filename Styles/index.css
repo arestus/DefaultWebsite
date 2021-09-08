@@ -468,7 +468,6 @@ img {
     display: block;
   }
   
-  /* Цвет пока что белый,а не как в макете, для того что бы его было видно */
   .text-caps {
     color: var(--secondary-text-color);
   
